@@ -1,1 +1,1 @@
-# retinopathy
+# Diabetic retinopathy
